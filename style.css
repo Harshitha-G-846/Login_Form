@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height:100vh;
-    background:linear-gradient(180deg, #fcd5e2cc, #fcb6b5c9,#f18095af);
+    background:linear-gradient(-30deg, #fcd5e2cc, #fcb6b5c9);
     color:#333;
 }
 .container {
@@ -37,7 +37,7 @@ h2 {
     margin-bottom: 30px;
     font-weight: 600;
     color:#364262;
-    background:linear-gradient(to right, #fae7f4d8, #faadbac0,#fae7f4d8);
+    background:linear-gradient(to right, #edb3b9d8, #ef5e6cbb,#e9bec1d8);
     border-radius: 9px;
 }
 
