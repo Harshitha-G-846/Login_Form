@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Emilys Candy", serif;
+    font-family: 'Helvetica Neue', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 body {
@@ -32,7 +32,7 @@ body {
 }
 
 h2 {
-    font-size: 34px;
+    font-size: 35px;
     text-align: center;
     margin-bottom: 30px;
     font-weight: 600;
