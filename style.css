@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height:100vh;
-    background:#f4f6f9;
+    background: url('https://www.naina.co/wp-content/uploads/2019/12/The-Intercontinental-Sunset-Los-Angeles-Naina-Redhu-Naina.co-Desktop-Wallpaper-2020-2500px.jpg') no-repeat center center/cover;
     color:#333;
 }
 .container {
@@ -21,7 +21,7 @@ body {
     width: 100%;
     max-width:450px;
     padding:30px;
-    background: #ffffff;
+    backdrop-filter: blur(5px);
     border-radius: 9px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     display:none;
